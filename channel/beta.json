@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "device": "pandora",
+  "channel": "beta",
+  "status": "no_release",
+  "message": "CX HyperOS experimental Android 17 builds are not safe to install."
+}

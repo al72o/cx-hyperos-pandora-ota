@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "device": "pandora",
+  "channel": "stable",
+  "status": "no_release",
+  "message": "No signed, device-tested CX HyperOS OTA package is available."
+}
